@@ -14,7 +14,7 @@ The following table can be used for the selection of z for ALIE Attack.
 
 
 FEMNIST data is originally created by running the following command on leaf framework [TalwalkarLab/leaf](https://github.com/TalwalkarLab/leaf/tree/master/data/femnist):  
-./preprocess.sh -s niid --sf 1.0 -k 350 -t sample
+./preprocess.sh -s niid --sf 1.0 -k 350 -t sample  
 Due to storage constraints on Github only a fraction of data is sampled with the command below and added to the folder min350 here.  
 ./preprocess.sh -s niid --sf .022 -k 350 -t sample
 
