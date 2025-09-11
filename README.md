@@ -13,10 +13,10 @@ The following table can be used for the selection of z for ALIE Attack.
 | 30% | N=100 | f=30 | s=21, phi(z)<79/100=0.79 | z=0.8|
 
 
-FEMNIST data is originally created by running the following command on leaf framework [TalwalkarLab/leaf](https://github.com/TalwalkarLab/leaf/tree/master/data/femnist):
+FEMNIST data is originally created by running the following command on leaf framework [TalwalkarLab/leaf](https://github.com/TalwalkarLab/leaf/tree/master/data/femnist):  
 ./preprocess.sh -s niid --sf 1.0 -k 350 -t sample
-Due to storage constraints on Github only a fraction of data is sampled with the command below and added to the folder min350 here.
-./preprocess.sh -s niid --sf .01 -k 350 -t sample
+Due to storage constraints on Github only a fraction of data is sampled with the command below and added to the folder min350 here.  
+./preprocess.sh -s niid --sf .022 -k 350 -t sample
 
 ## Acknowledgements 
 This repository benefited from the following resources, projects, and references:
