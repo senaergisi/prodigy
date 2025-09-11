@@ -8,6 +8,7 @@ The following table can be used for the selection of z for ALIE Attack.
 | 20% | N=20 | f=4 | s=7, phi(z)<13/20=0.65 | z=0.38|
 | 20% | N=30 | f=6 | s=10, phi(z)<20/30=0.66 | z=0.41|
 | 20% | N=50 | f=10 | s=16, phi(z)<34/50=0.68 |z=0.46|
+| 30% | N=10 | f=3 | s=3, phi(z)<7/10=0.7 | z=0.52|
 | 30% | N=20 | f=6 | s=5, phi(z)<15/20=0.75 | z=0.67|
 | 30% | N=100 | f=30 | s=21, phi(z)<79/100=0.79 | z=0.8|
 
