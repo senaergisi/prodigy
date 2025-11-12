@@ -70,7 +70,6 @@ def find_distribution_map(dataset, partition, clients_count, beta=0.1):
             min_require_size = 10
             K = 10
             net_dataidx_map = {}
-            beta = 0.1
             trainlabel = np.array(trainset.targets)
             while min_size < min_require_size:
                 idx_batch = [[] for _ in range(clients_count)]
@@ -209,4 +208,5 @@ def print_data_distribution(clients):
             counts[client_id,l] += 1 
 
     print(counts)
+
 
